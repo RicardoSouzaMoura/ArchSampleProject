@@ -13,8 +13,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.zimba.architecturesampleproject.R;
 import com.zimba.architecturesampleproject.models.Asset;
 
-import java.util.List;
-
 public class AssetRecyclerViewAdapter extends ListAdapter<Asset,
         AssetRecyclerViewAdapter.AssetHolder> {
 
